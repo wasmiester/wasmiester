@@ -73,7 +73,7 @@ Hi! My Name is Wasi Raza, a Software Developer and Engineer. I am located in the
 
 ### Language stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CourtneyGosselin&langs_count=8&layout=compact)](https://github.com/CourtneyGosselin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasmiester&langs_count=8&layout=compact)](https://github.com/CourtneyGosselin/github-readme-stats)
 
 
 <!--
