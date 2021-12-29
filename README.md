@@ -25,7 +25,7 @@
   
   
 ### About
-Hi! My Name is Wasi Raza, a Software Developer and Engineer. I am located in the Greater Vancouver Area. I’m a recent graduate from UBC where I obtained Bachelor in Computer Science. I also got a diploma in Computer Science and information systems from Douglas college. I truly fell in love with computers when my father brought me atari for my 8th birthday. Since then I have dedicated my life to learning understanding and applying whatever I can about technology. All of these interest have made a substantial impact on my life and I look forward to where they take me in the future.
+Hi! My Name is Wasi Raza, a Software Developer and Engineer. I am located in the Greater Vancouver Area. I’m a recent graduate from UBC where I obtained Bachelor in Computer Science. I also have a diploma in Computer Science and information systems from Douglas college. I truly fell in love with computers when my father brought me atari for my 8th birthday. Since then I have dedicated my life to learning understanding and applying whatever I can about technology. All of these interest have made a substantial impact on my life and I look forward to where they take me in the future.
 
  
 ### Languages, Libraries, and Frameworks
