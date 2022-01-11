@@ -1,6 +1,6 @@
 ### Portfolio Wasi Raza
 <div align="center">
-<a href="http://gosselin.io">
+<a href="http://wasiraza.com">
   <img src="https://user-images.githubusercontent.com/26807175/143400850-a3ad6c4e-d08e-431d-85e0-686e985a7804.png"/>
 </a>
 </div>
