@@ -1,7 +1,7 @@
 ### Portfolio Wasi Raza
 <div align="center">
 <a href="http://wasiraza.com">
-  <img src="https://user-images.githubusercontent.com/26807175/143400850-a3ad6c4e-d08e-431d-85e0-686e985a7804.png"/>
+  <img src="https://user-images.githubusercontent.com/26807175/149018798-b541ad37-51e6-4dbc-bb23-19e87e7cf50d.png"/>
 </a>
 </div>
 <div align="center">
