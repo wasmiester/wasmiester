@@ -74,11 +74,6 @@ Hi! My Name is Wasi Raza, a Software Developer and Engineer. I am located in the
  </div>
 
 
-
-### GitHub Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasmiester)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Language stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasmiester&langs_count=8&layout=compact)](https://github.com/CourtneyGosselin/github-readme-stats)
