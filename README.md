@@ -73,12 +73,6 @@ Hi! My Name is Wasi Raza, a Software Developer and Engineer. I am located in the
 <img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>
  </div>
 
-
-### Language stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasmiester&langs_count=8&layout=compact)](https://github.com/CourtneyGosselin/github-readme-stats)
-
-
 <!--
 **CourtneyGosselin/CourtneyGosselin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
