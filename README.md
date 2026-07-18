@@ -27,9 +27,9 @@
   </div>
   
   
-### About
-Hi! My Name is Wasi Raza, a Software Developer and Engineer. I am located in the Greater Vancouver Area. I have 4+ years of professional practical experinece devloping web services and applications. I graduated from UBC with a Bachelor's degree in Computer Science and also hold a diploma in Computer Science and Information Systems from Douglas College. I truly fell in love with computers when my father brought me atari for my 8th birthday. Since then I have dedicated my life to learning understanding and applying whatever I can about technology. All of these interest have made a substantial impact on my life and I look forward to where they take me in the future.
-
+### About Me
+Full Stack Software Engineer with production experience building RESTful APIs and data systems, most recently at ZE PowerGroup, where I worked on large-scale energy market data pipelines. I'm currently building independently and looking for my next full-time role.
+What I work with: Java/Spring Boot on the backend, React/Next.js/TypeScript on the frontend, and Python for data/ML work.
  
 ### Languages, Libraries, and Frameworks
 
